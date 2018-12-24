@@ -1,6 +1,8 @@
 # Kickstarter-Data-Analysis
 CIS 105 Final Project
 
+In order to run the notebook, remember to first download the kickstarter data set found here:https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv
+
 Our group’s data set was based on startup success rates on Kickstarter and factors that could have affected them. 
 We started by cleaning the data – we removed data where the numbers did not add up, dropped rows with incomplete data, 
 and renamed ambiguous values. We then proceeded to do some feature engineering and came up with three hypotheses 
