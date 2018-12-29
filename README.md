@@ -13,7 +13,8 @@ Alternative Hypothesis: 2015’s lackluster success rate occurred because of a s
 2.	A regression model predicting how successful the campaign was with respect to the goal
 3.	A test using bootstrapping to see if Italy and Japan’s success rates were low by pure chance
 
-We found three possible explanations for the lackluster success rate in 2015 – Kickstarter reached saturation,
+In the first hypothesis, we determined that it unlikely for the 2015’s lackluster success rate to have occurred by chance. 
+Moreover, we found three possible explanations for the lackluster success rate in 2015 – Kickstarter reached saturation,
 the greater quantity of campaigns brought about lower standards, and a greater number of projects were tech, 
 which were hard for the primary audience to empathize with.
 
